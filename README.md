@@ -6,5 +6,5 @@
 -Calculation of Luminosity distance and distance modulus
 -Comparison with ΛCDM and matter-only models
 
-# result
+# Result
 The data matches ΛCDM model with considerable deviaiton from a matter-only cosmology, providing evidence for accelerated expansion.
