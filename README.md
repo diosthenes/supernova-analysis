@@ -7,4 +7,4 @@
 -Comparison with ΛCDM and matter-only models
 
 # Result
-The data matches ΛCDM model with considerable deviaiton from a matter-only cosmology, providing evidence for accelerated expansion.
+The data matches ΛCDM model with considerable deviaton from a matter-only cosmology, providing evidence for accelerated expansion.
