@@ -1,8 +1,8 @@
 # supernova-analysis
- This project is a reproduction of the Supernova Hubble diagram using observational data from SCP Union2.1 SN Ia compilation.
+ This project is a reproduction of the Supernova Hubble diagram using observational data from SCP Union2.1 SN 1a compilation.
 
 # Description
--Real observational data from Union2.1 SN Ia compilation
+-Real observational data from Union2.1 SN 1a compilation
 -Calculation of Luminosity distance and distance modulus
 -Comparison with ΛCDM and matter-only models
 
