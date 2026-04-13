@@ -29,7 +29,7 @@ def mu(z, H):
 
 #data
 z_val = np.linspace(0.01, 2, 200)
-data = np.genfromtxt("C:/Users/Pranav M/Documents/Python Scripts/SCPUnion2.1_mu_vs_z.txt")
+data = np.genfromtxt(filepath)
 z_data = data[:,1] #redshift
 mu_data = data[:,2] #distance modulus
 mu_err = data[:,3] #uncertainity
